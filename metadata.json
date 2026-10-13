@@ -1,0 +1,6 @@
+{
+  "name": "PayFlow - Money Transfer Management System",
+  "description": "Professional money transfer management and financial accounting app with daily and monthly reports, cash reconciliation, bilingual Myanmar/English support, and receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
